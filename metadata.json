@@ -1,0 +1,6 @@
+{
+  "name": "Coach de Produtividade com IA Gemini",
+  "description": "Gerenciador inteligente de tarefas com análise de gargalos de tempo e coach de produtividade alimentado pelo Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
